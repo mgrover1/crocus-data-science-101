@@ -5,10 +5,10 @@ project:
   description: Github Pages based template for hackathons
   # keywords: []
   authors:
-    - name: Instructor Name
-      orcid: XXXX-XXXX-XXXX-XXXX
-      github: username
-  github: https://github.com/hackthackathon/hackathon-template-github
+    - name: Max Grover
+      orcid: 0000-0002-0370-8974
+      github: mgrover1
+  github: https://github.com/mgrover1/crocus-data-science-101/
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
@@ -24,5 +24,5 @@ site:
   template: book-theme
   # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthackathon.github.io/images/navbar-logo.png
-    logo: https://hackthackathon.github.io/images/navbar-logo.png
+    favicon: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
+    logo: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
